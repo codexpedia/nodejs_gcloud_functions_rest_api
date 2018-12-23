@@ -1,0 +1,8 @@
+{
+  "name": "simple-rest-api",
+  "description": "Simple REST API",
+  "dependencies": {
+    "escape-html": "^1.0.3"
+  },
+  "private": true
+}
